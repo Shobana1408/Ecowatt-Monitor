@@ -1,0 +1,320 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+Port 8080 is in use, trying another one...
+Port 8081 is in use, trying another one...
+
+  VITE v5.4.19  ready in 111 ms
+
+  ➜  Local:   http://localhost:8082/
+  ➜  Network: http://10.3.98.194:8082/
+5:32:04 PM [vite] hmr update /src/components/EnergyInputForm.tsx, /src/index.css
+5:32:10 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+5:32:18 PM [vite] hmr update /src/components/EnergyInputForm.tsx, /src/index.css
+5:32:18 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+5:34:25 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:28:47 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:29:03 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:29:11 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:29:32 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:29:36 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:29:41 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:29:43 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:30:30 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:30:30 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:35:03 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:35:06 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:35:15 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:36:08 PM [vite] hmr update /src/App.tsx, /src/index.css
+10:36:10 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:36:11 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:36:12 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:36:15 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:36:16 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:36:41 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:36:49 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:36:49 PM [vite] hmr update /src/App.tsx, /src/index.css
+10:36:49 PM [vite] hmr update /src/pages/Index.tsx, /src/index.css
+10:38:11 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:46:31 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:46:43 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:46:56 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:48:13 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:53:57 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:54:03 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:54:25 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:55:07 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx
+10:56:13 PM [vite] ✨ new dependencies optimized: @radix-ui/react-dropdown-menu
+10:56:13 PM [vite] ✨ optimized dependencies changed. reloading
+11:01:51 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx
+11:02:03 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx
+11:02:06 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx
+11:02:45 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx
+11:02:53 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx
+11:03:15 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx
+11:03:25 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx
+11:09:23 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx, /src/contexts/AuthContext.tsx
+11:09:23 PM [vite] hmr invalidate /src/contexts/AuthContext.tsx Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+11:09:23 PM [vite] hmr update /src/App.tsx, /src/index.css, /src/components/ProtectedRoute.tsx, /src/pages/Login.tsx, /src/pages/Index.tsx
+11:09:32 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx, /src/contexts/AuthContext.tsx
+11:09:32 PM [vite] hmr invalidate /src/contexts/AuthContext.tsx Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+11:09:32 PM [vite] hmr update /src/App.tsx, /src/index.css, /src/components/ProtectedRoute.tsx, /src/pages/Login.tsx, /src/pages/Index.tsx
+11:09:40 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx, /src/contexts/AuthContext.tsx
+11:09:40 PM [vite] hmr invalidate /src/contexts/AuthContext.tsx Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+11:09:40 PM [vite] hmr update /src/App.tsx, /src/index.css, /src/components/ProtectedRoute.tsx, /src/pages/Login.tsx, /src/pages/Index.tsx
+11:09:44 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx, /src/contexts/AuthContext.tsx
+11:09:44 PM [vite] hmr invalidate /src/contexts/AuthContext.tsx Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+11:09:44 PM [vite] hmr update /src/App.tsx, /src/index.css, /src/components/ProtectedRoute.tsx, /src/pages/Login.tsx, /src/pages/Index.tsx
+11:10:41 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx, /src/contexts/AuthContext.tsx
+11:10:41 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx, /src/contexts/AuthContext.tsx
+11:10:41 PM [vite] hmr invalidate /src/contexts/AuthContext.tsx Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+11:10:41 PM [vite] hmr update /src/App.tsx, /src/index.css, /src/components/ProtectedRoute.tsx, /src/pages/Login.tsx, /src/pages/Index.tsx
+11:11:09 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx, /src/components/EnergyInputForm.tsx, /src/contexts/AuthContext.tsx
+11:11:09 PM [vite] hmr invalidate /src/contexts/AuthContext.tsx Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+11:11:09 PM [vite] hmr update /src/App.tsx, /src/index.css, /src/components/ProtectedRoute.tsx, /src/pages/Login.tsx, /src/pages/Index.tsx
+11:41:39 PM [vite] hmr update /src/index.css, /src/pages/Index.tsx
+11:54:03 PM [vite] hmr update /src/components/EnergyInputForm.tsx, /src/index.css
+Error processing file src/components/EnergyInputForm.tsx: SyntaxError: Unexpected token (1:0)
+    at constructor (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:362:19)
+    at TypeScriptParserMixin.raise (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3259:19)
+    at TypeScriptParserMixin.unexpected (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3279:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10970:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:6811:20)
+    at TypeScriptParserMixin.parseExprSubscripts (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10592:23)
+    at TypeScriptParserMixin.parseUpdate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10577:21)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10557:23)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:9483:18)
+    at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10411:61) {
+  code: 'BABEL_PARSER_SYNTAX_ERROR',
+  reasonCode: 'UnexpectedToken',
+  loc: Position { line: 1, column: 0, index: 0 },
+  pos: 0,
+  syntaxPlugin: undefined
+}
+11:54:03 PM [vite] Internal server error:   x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   : ^^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+  x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   :    ^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+
+
+Caused by:
+    Syntax Error
+  Plugin: vite:react-swc
+  File: /Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx
+  
+12:01:05 AM [vite] hmr update /src/index.css
+12:01:05 AM [vite] Internal server error: [postcss] /Users/dhruvv/Downloads/watt-aware-java-main/src/index.css:114:1: Unknown word x
+  Plugin: vite:css
+  File: /Users/dhruvv/Downloads/watt-aware-java-main/src/index.css:114:0
+  112|    }
+  113|  }
+  114|  x
+     |  ^
+      at Input.error (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/postcss/lib/input.js:135:16)
+      at Parser.unknownWord (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/postcss/lib/parser.js:595:22)
+      at Parser.other (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/postcss/lib/parser.js:437:12)
+      at Parser.parse (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/postcss/lib/parser.js:472:16)
+      at parse (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/postcss/lib/parse.js:11:12)
+      at new LazyResult (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/postcss/lib/lazy-result.js:165:16)
+      at Processor.process (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/postcss/lib/processor.js:53:14)
+      at compileCSS (file:///Users/dhruvv/Downloads/watt-aware-java-main/node_modules/vite/dist/node/chunks/dep-C6uTJdX2.js:36898:59)
+      at async TransformPluginContext.transform (file:///Users/dhruvv/Downloads/watt-aware-java-main/node_modules/vite/dist/node/chunks/dep-C6uTJdX2.js:36171:11)
+      at async PluginContainer.transform (file:///Users/dhruvv/Downloads/watt-aware-java-main/node_modules/vite/dist/node/chunks/dep-C6uTJdX2.js:49099:18)
+12:01:09 AM [vite] hmr update /src/index.css
+Error processing file src/components/EnergyInputForm.tsx: SyntaxError: Unexpected token (1:0)
+    at constructor (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:362:19)
+    at TypeScriptParserMixin.raise (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3259:19)
+    at TypeScriptParserMixin.unexpected (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3279:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10970:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:6811:20)
+    at TypeScriptParserMixin.parseExprSubscripts (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10592:23)
+    at TypeScriptParserMixin.parseUpdate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10577:21)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10557:23)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:9483:18)
+    at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10411:61) {
+  code: 'BABEL_PARSER_SYNTAX_ERROR',
+  reasonCode: 'UnexpectedToken',
+  loc: Position { line: 1, column: 0, index: 0 },
+  pos: 0,
+  syntaxPlugin: undefined
+}
+12:22:52 AM [vite] Internal server error:   x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   : ^^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+  x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   :    ^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+
+
+Caused by:
+    Syntax Error
+  Plugin: vite:react-swc
+  File: /Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx
+  
+12:22:52 AM [vite] Pre-transform error:   x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   : ^^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+  x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   :    ^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+
+
+Caused by:
+    Syntax Error
+Error processing file src/components/EnergyInputForm.tsx: SyntaxError: Unexpected token (1:0)
+    at constructor (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:362:19)
+    at TypeScriptParserMixin.raise (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3259:19)
+    at TypeScriptParserMixin.unexpected (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3279:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10970:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:6811:20)
+    at TypeScriptParserMixin.parseExprSubscripts (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10592:23)
+    at TypeScriptParserMixin.parseUpdate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10577:21)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10557:23)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:9483:18)
+    at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10411:61) {
+  code: 'BABEL_PARSER_SYNTAX_ERROR',
+  reasonCode: 'UnexpectedToken',
+  loc: Position { line: 1, column: 0, index: 0 },
+  pos: 0,
+  syntaxPlugin: undefined
+}
+12:22:52 AM [vite] Internal server error:   x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   : ^^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+  x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   :    ^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+
+
+Caused by:
+    Syntax Error
+  Plugin: vite:react-swc
+  File: /Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx
+  
+Error processing file src/components/EnergyInputForm.tsx: SyntaxError: Unexpected token (1:0)
+    at constructor (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:362:19)
+    at TypeScriptParserMixin.raise (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3259:19)
+    at TypeScriptParserMixin.unexpected (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3279:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10970:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:6811:20)
+    at TypeScriptParserMixin.parseExprSubscripts (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10592:23)
+    at TypeScriptParserMixin.parseUpdate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10577:21)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10557:23)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:9483:18)
+    at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10411:61) {
+  code: 'BABEL_PARSER_SYNTAX_ERROR',
+  reasonCode: 'UnexpectedToken',
+  loc: Position { line: 1, column: 0, index: 0 },
+  pos: 0,
+  syntaxPlugin: undefined
+}
+12:24:00 AM [vite] Internal server error:   x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   : ^^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+  x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   :    ^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+
+
+Caused by:
+    Syntax Error
+  Plugin: vite:react-swc
+  File: /Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx
+  
+Error processing file src/components/EnergyInputForm.tsx: SyntaxError: Unexpected token (1:0)
+    at constructor (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:362:19)
+    at TypeScriptParserMixin.raise (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3259:19)
+    at TypeScriptParserMixin.unexpected (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:3279:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10970:16)
+    at TypeScriptParserMixin.parseExprAtom (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:6811:20)
+    at TypeScriptParserMixin.parseExprSubscripts (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10592:23)
+    at TypeScriptParserMixin.parseUpdate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10577:21)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10557:23)
+    at TypeScriptParserMixin.parseMaybeUnary (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:9483:18)
+    at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (/Users/dhruvv/Downloads/watt-aware-java-main/node_modules/@babel/parser/lib/index.js:10411:61) {
+  code: 'BABEL_PARSER_SYNTAX_ERROR',
+  reasonCode: 'UnexpectedToken',
+  loc: Position { line: 1, column: 0, index: 0 },
+  pos: 0,
+  syntaxPlugin: undefined
+}
+12:24:03 AM [vite] Internal server error:   x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   : ^^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+  x Expression expected
+   ,-[/Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx:1:1]
+ 1 | =====import { useState } from 'react';
+   :    ^^
+ 2 | import { useForm } from 'react-hook-form';
+ 3 | import { zodResolver } from '@hookform/resolvers/zod';
+ 4 | import { z } from 'zod';
+   `----
+
+
+Caused by:
+    Syntax Error
+  Plugin: vite:react-swc
+  File: /Users/dhruvv/Downloads/watt-aware-java-main/src/components/EnergyInputForm.tsx
+  
+12:24:25 AM [vite] hmr update /src/components/EnergyInputForm.tsx, /src/index.css
+12:24:37 AM [vite] hmr update /src/components/EnergyInputForm.tsx, /src/index.css
+12:24:40 AM [vite] hmr update /src/components/EnergyInputForm.tsx, /src/index.css
+4:15:47 AM [vite] page reload tailwind.config.ts
